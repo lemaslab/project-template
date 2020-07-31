@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 20XX XXXXXXXXX and Patrick D. Schloss
+Copyright (c) 20XX XXXXXXXXX and Dominick J. Lemas
 
 
 
