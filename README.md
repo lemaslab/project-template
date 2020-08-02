@@ -1,10 +1,7 @@
-Download the [latest release](https://github.com/SchlossLab/new_project/releases/latest) to the directory and decompress
-
 
 ## TITLE OF YOUR PAPER GOES HERE
 
 YOUR PAPER'S ABSTRACT GOES HERE
-
 
 
 
@@ -41,7 +38,6 @@ YOUR PAPER'S ABSTRACT GOES HERE
 
 #### Dependencies and locations
 * Gnu Make should be located in the user's PATH
-* mothur (v1.XX.0) should be located in the user's PATH
 * R (v. 3.X.X) should be located in the user's PATH
 * R packages:
   * `knitr`
@@ -51,7 +47,4 @@ YOUR PAPER'S ABSTRACT GOES HERE
 
 #### Running analysis
 
-```
-git clone https://github.com/SchlossLab/LastName_BriefDescription_Journal_Year.git
-make write.paper
-```
+
