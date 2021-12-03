@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 20XX XXXXXXXXX and Dominick J. Lemas
+Copyright (c) 2021 Dominick J. Lemas
 
 
 

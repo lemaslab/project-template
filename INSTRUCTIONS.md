@@ -3,7 +3,7 @@ Instructions
 
 Starting
 --------
-* Download the [latest release](https://github.com/SchlossLab/new_project/releases/latest)
+* Download the [latest release](https://github.com/lemaslab/project-template/)
 to the directory and decompress
 
 * Rename the decompressed/untarred file to the name of your project. Name the
@@ -20,39 +20,18 @@ your project. Update this tree as the project proceeds.
 
 * At the terminal do the following to replace the license for the template's repository with the license for your project
 
-  ```
-  mv newproject_LICENSE.md LICENSE.md
-  ```
 
-* At the prompt type:
-
-  ```
-  git init ./
-  git add .
-  git commit -m "Initial commit"
-  ```
-
-* Go to the [SchlossLab repository](https://github.com/schlosslab) on GitHub and
+* Go to the [LemasLab repository](https://github.com/lemaslab) on GitHub and
 create a new repository with the same name as your folder. Click the "Create
 Repository" button.
 * Follow the instructions for pushing an existing repository from the command
 line. For example (be sure to replace `LastName_BriefDescription_Journal_Year`
 with the appropriate text:
 
-  ```
-  git remote add origin https://github.com/SchlossLab/LastName_BriefDescription_Journal_Year.git
-  git push -u origin master
-  ```
 
 * You will want to update the README file as you go through your work. It is
 likely that you'll need to provide a link to the published paper, the title, the abstract of the study, and instructions for how to generate the paper.
 
-* Once you understand all of this, you can run
-
-  ```
-  git rm INSTRUCTIONS.md
-  git commit -m "Remove instructions document"
-	```
 
 Citations
 ----------------------
