@@ -11,4 +11,4 @@ data/*/*
 *.qsub*
 mothur*logfile
 *temp*
-*.docx
+# *.docx
