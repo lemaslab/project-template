@@ -34,17 +34,6 @@ YOUR PAPER'S ABSTRACT GOES HERE
 
 
 
-### How to regenerate this repository
 
-#### Dependencies and locations
-* Gnu Make should be located in the user's PATH
-* R (v. 3.X.X) should be located in the user's PATH
-* R packages:
-  * `knitr`
-  * `rmarkdown`
-* etc
-
-
-#### Running analysis
 
 
